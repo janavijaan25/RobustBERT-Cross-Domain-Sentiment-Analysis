@@ -23,6 +23,13 @@ Include the actual evaluation metrics obtained during project execution:
 * Recall:
 * F1-score:
 
+## 3. Project Output
+
+### Sentiment Analysis Output
+
+![Sentiment Analysis Output](Dark Colab BERT Sentiment Analysis Notebook.png
+)
+
 ## 4. Cross-Domain Evaluation
 
 Document the model's performance on the source and target domain datasets.
